@@ -1103,7 +1103,9 @@ Outra melhoria relevante foi a inclusão da entidade **LOCAÇÃO_EXPRESS**, dife
 
 Com essas adequações, o modelo conceitual passou a representar de forma fiel os processos de orçamento, locação, locação expressa e controle operacional e financeiro da empresa *Festa **&** Cia Locações*, servindo de base sólida para a construção do modelo lógico.
 
-### DER Lógico 
+### DER Lógico
+
+![DER Lógico](DER_LOGICO.png)
 
 - **Link para visualização do DER Lógico:**
 
@@ -1111,9 +1113,7 @@ Com essas adequações, o modelo conceitual passou a representar de forma fiel o
 
 ### ADEQUAÇÕES DE NORMALIZAÇÃO
 
-*Visando atender às Formas Normais, o modelo conceitual foi normalizado através *
-
-*das seguintes adequações efetivamente implementadas no banco de dados:*
+*Visando atender às Formas Normais, o modelo conceitual foi normalizado através das seguintes adequações efetivamente implementadas no banco de dados:*
 
 **1ª Forma Normal (1FN)** - Eliminação de atributos multivalorados e compostos:
 
