@@ -1105,7 +1105,7 @@ Com essas adequações, o modelo conceitual passou a representar de forma fiel o
 
 ### DER Lógico
 
-![DER Lógico](DER_LOGICO.png)
+![DER Lógico](DER_LOGICO.png.png)
 
 - **Link para visualização do DER Lógico:**
 
