@@ -1646,4 +1646,4 @@ Agradecimento especial a todos que contribuíram para este projeto:
 - **CESAR AUGUSTO VIVODA CRUZ** - [LinkedIn](https://www.linkedin.com/in/cesar-vivoda-a66209208) | [GitHub](https://github.com/Vivoda81)
 - **DANILO GOMES** - [LinkedIn](https://www.linkedin.com/in/danilo-gomes-739554437/) | [GitHub](https://github.com/danilodevfullstack07)
 - **ÉRIKA GABRIELA BUENO DA SILVA** - [LinkedIn](http://www.linkedin.com/in/erika-gabriela-bueno-da-silva-66b695237) | [GitHub](https://github.com/Erikasilva23)
-- **LETHICIA GOMES DE SOUZA** - [LinkedIn](COLOCAR_O_LINK_AQUI) | [GitHub](COLOCAR_O_LINK_AQUI)
+- **LETHICIA GOMES DE SOUZA** - [LinkedIn](https://www.linkedin.com/in/lethícia-gomes-038a81436/) | [GitHub](https://github.com/lezlls)
