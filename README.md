@@ -4,7 +4,7 @@
 
 Trabalho acadêmico apresentado à disciplina de **Modelagem de Banco de Dados** da Universidade Cidade de São Paulo (**UNICID**), como requisito parcial para obtenção de nota. São Paulo, 2026.
 
-## 📑 Sumário
+## Sumário
 
 - [ETAPA 01 - ESCOLHA E CARACTERIZAÇÃO DA EMPRESA](#etapa-01---escolha-e-caracterização-da-empresa)
 - [ETAPA 02 - JUSTIFICATIVA DA ESCOLHA](#etapa-02---justificativa-da-escolha)
