@@ -1,4 +1,4 @@
-# 🎉 Festa & Cia Locações
+#Festa & Cia Locações
 
 **Sistema de Locação de Produtos para Festas**
 
